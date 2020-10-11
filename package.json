@@ -1,0 +1,15 @@
+{
+    "name": "eat-da-burger_app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^4.0.4",
+        "mysql": "^2.18.1",
+        "sequelize": "^6.3.0"
+    }
+}
