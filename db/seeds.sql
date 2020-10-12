@@ -3,8 +3,8 @@ use burgers_db;
 INSERT INTO burgers 
 (burger_name, devoured)
 VALUES
-("Bulgogi Burger", false),
-("Dakgalbi Burger", false),
-("Daeji Burger", false)
+("Anticucho Burger", false),
+("Ceviche Burger", false),
+("Huancaina Burger", false)
 
   SELECT * FROM burgers;
